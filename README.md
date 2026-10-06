@@ -3,7 +3,7 @@
 
 I'm studying Computer Science & Engineering at OSU, specializing in AI, while building things on the side - most of what's below comes from that side work, but school is the foundation underneath it. I build secure, production-shaped web apps - the kind with actual payments and actual auth, not demos - and care more about a system holding up under abuse than how many frameworks it name-drops.
 
-Most recently I built **[nanomoz.com](https://nanomoz.com)**, an AI image-generation platform, end to end: a Next.js/React frontend and a FastAPI/Python backend, split across a VPS and Cloudflare, with OAuth + OTP sign-in, payment processing, cloud storage, and a Postgres database. Security wasn't an afterthought - the repo carries its own abuse-case checklist and a recurring scan pipeline alongside the usual CI.
+Most recently I built **[parsimage.app](https://parsimage.app)**, an AI image-generation platform, end to end: a Next.js/React frontend and a FastAPI/Python backend, split across a VPS and Cloudflare, with OAuth + OTP sign-in, payment processing, cloud storage, and a Postgres database. Security wasn't an afterthought - the repo carries its own abuse-case checklist and a recurring scan pipeline alongside the usual CI.
 
 **Recent open-source work**
 
